@@ -1,0 +1,5 @@
+print("Math = 90")
+print("Science = 85")
+print("English = 88")
+print("Physics = 92")
+print("Chemistry = 87")

@@ -1,0 +1,1 @@
+print("Blood Group: B+")
